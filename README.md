@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @g1t-innit (of course not my real name)
-- 👀 I’m interested in bugs... I mean coding. I am also interested in various other things such as music, books, video games.
+- 👀 I’m interested in bugs... I mean coding. I am also interested in various other things such as music, books, and video games.
 - 🌱 I’m currently focusing on my career. I've been lucky enough to work as a front-end intern in a company. (They have no idea how many bugs i'm going add to their projects)
 - 😄 Pronouns: I hate this sh*t. I also hate LGBTQHD+ Ultra guys. If you're a normal person, and all you care about is coding, then we can have a conversation.
 - 👨‍🎓 Learning new things is what i really enjoy. So, if you got anything interesting about programming skills, please share it with me.
